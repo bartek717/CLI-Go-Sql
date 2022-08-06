@@ -13,7 +13,7 @@ import (
 
 func main() {
 	user := "postgres"
-	password := "Bartek2004"
+	password := ""
 	host := "host.docker.internal"
 	port := "5432"
 	dbname := "postgres"
